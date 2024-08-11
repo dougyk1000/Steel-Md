@@ -45,8 +45,8 @@ let hit = JSON.parse(fs.readFileSync('./Gallery/database/total-hit-user.json'))
 const replay = (teks) => {
             Maria.sendMessage(m.chat, { text: teks}, { quoted: m})
         }
-const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-        const Ayuxxdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
+const xtime = moment.tz('Africa/Harare').format('HH:mm:ss')
+        const Ayuxxdate = moment.tz('Africa/Harare').format('DD/MM/YYYY')
         const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
 var Ayushytimewisher = `Good Night 🌌`
@@ -182,7 +182,7 @@ mentionedJid:[sender],
 forwardingScore: 9999999,
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterName: "AYUSH BOTZ INC",
+newsletterName: "Steel-Md BOTS INC",
 newsletterJid: "120363213314329067@newsletter",
 },
 "externalAdReply": {
@@ -239,7 +239,7 @@ async function Telesticker(url) {
             data2 = await axios(`https://api.telegram.org/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/getFile?file_id=${fileId}`)
             result = {
             status: 200,
-            author: '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰',
+            author: '💙Dougy_k1000✘𓆪_✰',
             url: "https://api.telegram.org/file/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/" + data2.data.result.file_path
             }
             mariayresult.push(result)
@@ -281,7 +281,7 @@ async function Telesticker(url) {
         }
         
         if (autobio) {
-            Maria.updateProfileStatus(`Hey, future leaders! 🌟 Maria-Md is here to inspire and lead, thanks to Ayush Botz, Inc. 🚀 ${runtime(process.uptime())} `).catch(_ => _)
+            Maria.updateProfileStatus(`Hey, future leaders! 🌟 Steel-Md is here to inspire and lead, thanks to Steel-MD Inc. 🚀 ${runtime(process.uptime())} `).catch(_ => _)
         }
         if (m.sender.startsWith('212') && global.anti212 === true) {
             return Maria.updateBlockStatus(m.sender, 'block')
@@ -430,8 +430,8 @@ return false;
 const verificationBot = await verification();
 
 if (!verificationBot) {
-m.reply(`⛩️ *❯─「 Maria-MD 」─❮* ⛩️\n
-Join our support group to interact with MARIA-MD 🌟 \n\n https://chat.whatsapp.com/FGPKxVnjgJ7KnBGiDeb4ij`);
+m.reply(`⛩️ *❯─「 Steel-MD 」─❮* ⛩️\n
+Join our support group to interact with Steel-MD 🌟 \n\n https://chat.whatsapp.com/FGPKxVnjgJ7KnBGiDeb4ij`);
 return;
 }
 
@@ -468,7 +468,7 @@ const mariafeature = () =>{
     [
         'https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png', // Image URL
         '', // Title
-        `MARIA YOUTUBE CHANNEL `, // Body message
+        `Steel-MD YOUTUBE CHANNEL `, // Body message
         botname, // Footer message
         'Visit', // Button display text
         'https://youtube.com/@maria-md', // Command (URL in this case)
@@ -598,7 +598,7 @@ const sendSlide = async (jid, title, message, footer, slides) => {
     });
 };
 // Call the function with example parameters
-sendSlide(m.chat, 'MARIA-MD', 'Here the Maria-MD deploy tutorial', botname, slides);
+sendSlide(m.chat, 'Steel-MD ', 'Here the Steel-MD deploy tutorial', botname, slides);
 }
 break
 
@@ -1021,7 +1021,7 @@ break;
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: ' *🎐Maria Broadcast🎐* ',
+                                title: ' *🎐Steel Broadcast🎐* ',
                                 body: `Sent ${i.length} Group`,
                                 thumbnailUrl: 'https://telegra.ph/file/3fd18ee11521117c7c882.jpg',
                                 sourceUrl: global.link,
