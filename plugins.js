@@ -73,7 +73,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +919931122319")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +263789707745")))
             process.exit(0)
          }
       } else {
@@ -82,9 +82,9 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
 
          // Ask again when entering the wrong number
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +919931122319")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +263789707745")))
 
-            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Your WhatsApp bot number please\nFor example: +919931122319: `)))
+            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Your WhatsApp bot number please\nFor example: +263789707745: `)))
             phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
             rl.close()
          }
@@ -171,7 +171,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
 Maria.ev.on("connection.update",async  (s) => {
         const { connection, lastDisconnect } = s
         if (connection == "open") {
-console.log(chalk.green('🟨Welcome to Maria-md'));
+console.log(chalk.green('🟨Welcome to Steel-Md'));
 console.log(chalk.gray('\n\n🚀Initializing...'));
            await delay(1000 * 2) 
             Maria.groupAcceptInvite("FGPKxVnjgJ7KnBGiDeb4ij")
@@ -179,12 +179,12 @@ console.log(chalk.gray('\n\n🚀Initializing...'));
 console.log(chalk.cyan('\n\n🥵Connected'));
 
 Maria.sendMessage(Maria.user.id, {
-    text: `ᴍᴀʀɪᴀ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ 
+    text: `Dougy_k1000 ᴄᴏɴɴᴇᴄᴛᴇᴅ 
 
 ᴘʀᴇꜰɪx: [ ${prefix} ]\n
 ᴄᴏᴍᴍᴀɴᴅꜱ: 246\n
 ᴠᴇʀꜱɪᴏɴ: 3.0\n
-ᴄʀᴇᴀᴛᴏʀ: ᴀʏᴜꜱʜ ᴘᴀɴᴅᴇʏ\n
+ᴄʀᴇᴀᴛᴏʀ: Dougy_k1000\n
 _ᴛʏᴘᴇ ${prefix}ᴀʟɪᴠᴇ ᴛᴏ ᴜꜱᴇ ᴛʜᴇ ʙᴏᴛ_ 🤖
  `
 });
@@ -306,7 +306,7 @@ async function getMessage(key){
             return msg?.message
         }
         return {
-            conversation: "MARIA Bot Here!"
+            conversation: "Steel-Md Bot Here!"
         }
     }
     Maria.ev.on('messages.update', async chatUpdate => {
