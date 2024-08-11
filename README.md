@@ -1,5 +1,5 @@
 <a href="https://ibb.co/pQNpmwN"><img src="Gallery/better.jpg" alt="Steel-Md" border="0"></a>
-<h1 align="center">⭐Maria-Md⭐<br></h1>
+<h1 align="center">⭐Steel-Md⭐<br></h1>
 
 <p align="center"> 
   Hey Master, "Steel-Md" here, a WhatsApp bot made by Dougy_k1000 to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support. Enjoy the thrill😉. 
