@@ -1,5 +1,5 @@
 {
-  "name": "Maria-Bot",
+  "name": "Steel-Md",
   "version": "3.0.0",
   "description": "WhatsApp Bot Using Nodejs",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Ayush",
+  "author": "Dougy_k1000",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
