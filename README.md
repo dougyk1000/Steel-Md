@@ -1,4 +1,4 @@
-<a href="https://ibb.co/pQNpmwN"><img src="Gallery/better.jpeg" alt="Steel-Md" border="0"></a>
+<a href="https://ibb.co/pQNpmwN"><img src="Gallery/better.jpg" alt="Steel-Md" border="0"></a>
 <h1 align="center">⭐Maria-Md⭐<br></h1>
 
 <p align="center"> 
