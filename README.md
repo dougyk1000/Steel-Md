@@ -1,8 +1,8 @@
-<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0"></a>
+<a href="https://ibb.co/pQNpmwN"><img src="Gallery/better.jpeg" alt="Steel-Md" border="0"></a>
 <h1 align="center">⭐Maria-Md⭐<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, I am "Maria md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Hey Master, "Steel-Md" here, a WhatsApp bot made by Dougy_k1000 to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support. Enjoy the thrill😉. 
 </p>
 
 
@@ -19,7 +19,7 @@
 4.  game menu added ✅️
 🔻More features and improvements!
 
--regards Ayush
+-regards Dougy_k1000
 ```
 </br>
 
@@ -48,7 +48,7 @@
   
 1. Fork The Repo
     <br>
-    <a href="https://github.com/AYUSH-PANDEY023/Maria-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/dougyk1000/Steel-Md/fork"><img title="Steel-Md" src="https://img.shields.io/badge/FORK MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Pair with WhatsApp 
    <p align="left">
